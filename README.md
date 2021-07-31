@@ -1,2 +1,7 @@
-# Snake-js
-create a snake game in less than 90 lines of javascript code
+# Snake-JS
+Snake Game in JS
+
+## https://www.youtube.com/edit
+
+
+![snake-js](thum.jpg)
